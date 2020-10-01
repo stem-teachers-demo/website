@@ -1,2 +1,3 @@
 # CI/CD Demo Website
-Demo website for continuous delivery and deployment demonstration.
+Demo website for a continuous delivery and deployment demonstration.
+
