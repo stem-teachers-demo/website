@@ -1,2 +1,2 @@
 # CI/CD Demo Website
-Demo website for continuous delivery and deployment demonstration.
+Demo webpp for continuous delivery and deployment demonstration.
